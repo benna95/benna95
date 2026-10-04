@@ -9,17 +9,6 @@ I'm **Lorenzo Bennati**, a Software Engineer interested in **Rust, C++, embedded
 * 🧬 My background is in **Biomedical Engineering**, with a PhD focused on computational modelling and cardiovascular sciences.
 * 💡 I enjoy understanding how things work under the hood and experimenting with new technologies.
 
-### 🦀 What I'm currently learning
-
-I'm spending a lot of time learning **Rust**, experimenting with things like:
-
-* Multithreading & synchronization
-* `Arc`, `Mutex`, channels and shared state
-* Async programming with `Tokio`
-* GUI applications with `egui` / `eframe`
-* SQLite integration
-* Tauri and Rust-based desktop applications
-
 ---
 
 ### 🎓 Academic
